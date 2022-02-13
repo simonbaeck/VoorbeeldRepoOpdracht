@@ -1,4 +1,4 @@
 #!/bin/bash
 
 read -p "Give your name: " name;
-echo $name;
+echo "Hello $name. Greetings to you my friend.";
